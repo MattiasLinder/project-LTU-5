@@ -1,0 +1,5 @@
+# Exclude all .docx files
+*.docx
+
+# Exclude the Course material folder
+Course material/
